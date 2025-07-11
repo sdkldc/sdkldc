@@ -10,17 +10,20 @@
 </span>
 
 
+
+
 ### Education
 
-- B.S. in Mathematics, Chung-Ang University (CAU)  
+- B.S. in Mathematics at Chung-Ang University (CAU)  
   *2019.3 ~ 2025.8*
 
-- M.S. in Artificial Intelligence, Chung-Ang University (CAU)  
+- M.S. in Artificial Intelligence at Chung-Ang University (CAU)  
   *2025.3 ~ Present*
 
 ### Experience
 - Undergraduate  Research Intern, [MAISC Lab at Chung-Ang University](https://sites.google.com/view/maisc-lab/)
-
+- Undergraduate  Research Intern, [Compression AI Lab at Chung-Ang University](https://cai.cau.ac.kr/)
+- Researcher, [Compression AI Lab at Chung-Ang University](https://cai.cau.ac.kr/)
 
 <!--
 **sdkldc/sdkldc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
