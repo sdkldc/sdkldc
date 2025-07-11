@@ -23,7 +23,7 @@ M.S. in Artificial Intelligence (AI) at Chung-Ang University (CAU), 2025.3 ~ Pre
 ### Experience
 Undergraduate  Research Intern, [MAISC Lab at Chung-Ang University](https://sites.google.com/view/maisc-lab/), 2024.6 ~ 2025.2  <br>
 Undergraduate  Research Intern, [Compression AI Lab at Chung-Ang University](https://cai.cau.ac.kr/), 2025.3 ~ 2025.7 <br>
-Researcher, [Compression AI Lab at Chung-Ang University](https://cai.cau.ac.kr/), 2025.8 ~ present <br>
+Researcher, [Compression AI Lab at Chung-Ang University](https://cai.cau.ac.kr/), 2025.8 ~ **present** <br>
 BDA (Big Data Analysis, 데이터 분석 학회), 2024.3 ~ 2024.8 <br>
 CUAI (Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 학회), 2024.9 ~ 2024.12
 
