@@ -13,13 +13,13 @@
 I'm Deokhyeon Yoon, currently pursuing an M.S. in Artificial Intelligence at Chung-Ang University (CAU).  
 I study **image compression and storage** based on **generative models**, such as diffusion models and VAEs.  
 
-
+<br><br>
 
 ### Education
 
 2019.3 ~ 2025.8 : B.S. in Mathematics at Chung-Ang University (CAU)  
 2025.3 ~ Present : M.S. in Artificial Intelligence (AI) at Chung-Ang University (CAU)  
- 
+<br><br>
 
 ### Experience
 2024.6 ~ 2025.2 : Undergraduate  Research Intern, [MAISC Lab at Chung-Ang University](https://sites.google.com/view/maisc-lab/)
