@@ -9,22 +9,24 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </span>
 
-### About Me
-
-
+### 👋 About Me
+I'm Deokhyeon Yoon, currently pursuing an M.S. in Artificial Intelligence at Chung-Ang University (CAU).  
+I study **image compression and storage** based on **generative models**, such as diffusion models and VAEs.  
 
 ### Education
 
-- B.S. in Mathematics at Chung-Ang University (CAU)  
-  *2019.3 ~ 2025.8*
+2019.3 ~ 2025.8 : B.S. in Mathematics at Chung-Ang University (CAU)  
 
-- M.S. in Artificial Intelligence (AI) at Chung-Ang University (CAU)  
-  *2025.3 ~ Present*
+
+2025.3 ~ Present : M.S. in Artificial Intelligence (AI) at Chung-Ang University (CAU)  
+ 
 
 ### Experience
-- Undergraduate  Research Intern, [MAISC Lab at Chung-Ang University](https://sites.google.com/view/maisc-lab/)
-- Undergraduate  Research Intern, [Compression AI Lab at Chung-Ang University](https://cai.cau.ac.kr/)
-- Researcher, [Compression AI Lab at Chung-Ang University](https://cai.cau.ac.kr/)
+2024.6 ~ 2025.2 : Undergraduate  Research Intern, [MAISC Lab at Chung-Ang University](https://sites.google.com/view/maisc-lab/)
+2025.3 ~ 2025.7 : Undergraduate  Research Intern, [Compression AI Lab at Chung-Ang University](https://cai.cau.ac.kr/)
+2025.8 ~ present : Researcher, [Compression AI Lab at Chung-Ang University](https://cai.cau.ac.kr/)
+2024.3 ~ 2024.8 : BDA (Big Data Analysis, 데이터 분석 학회)
+2024.9 ~ 2024.12 : CUAI (Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 학회)
 
 <!--
 **sdkldc/sdkldc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
