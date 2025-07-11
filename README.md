@@ -17,8 +17,8 @@ My research focuses on image compression and storage using generative models, in
 
 ### Education
 
-2019.3 ~ 2025.8 : B.S. in Mathematics at Chung-Ang University (CAU)   <br>
-2025.3 ~ Present : M.S. in Artificial Intelligence (AI) at Chung-Ang University (CAU)  
+B.S. in Mathematics at Chung-Ang University (CAU) (Mar. 2019 – Aug. 2025)  <br>
+2025.3 ~ Present : M.S. in Artificial Intelligence (AI) at Chung-Ang University (CAU) (Aug.2025 ~ present)  
 <br><br>
 
 ### Experience
