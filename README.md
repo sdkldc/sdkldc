@@ -1,5 +1,7 @@
-## Hi there 👋
+
 ![header](https://capsule-render.vercel.app/api?type=waving)
+## Have a nice day!👋
+
 <!--
 **sdkldc/sdkldc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
