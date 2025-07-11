@@ -10,8 +10,20 @@
 </span>
 
 ### Education
-2019.03 ~ 2025.08 : B.S. in Mathematics , Chung-Ang University (CAU) \\
+2019.03 ~ 2025.08 : B.S. in Mathematics , Chung-Ang University (CAU) 
+
 2025.08 ~ present : M.S. in Artificial Intelligence , Chung-Ang University (CAU)
+
+
+### Education
+
+- **B.S. in Mathematics**, Chung-Ang University (CAU)  
+  *Mar. 2019 – Aug. 2025*
+
+- **M.S. in Artificial Intelligence**, Chung-Ang University (CAU)  
+  *Aug. 2025 – Present*
+
+
 <!--
 **sdkldc/sdkldc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
