@@ -12,14 +12,14 @@
 
 ### Education
 
-- **B.S. in Mathematics**, Chung-Ang University (CAU)  
+- B.S. in Mathematics, Chung-Ang University (CAU)  
   *2019.3 ~ 2025.8*
 
-- **M.S. in Artificial Intelligence**, Chung-Ang University (CAU)  
+- M.S. in Artificial Intelligence, Chung-Ang University (CAU)  
   *2025.3 ~ Present*
 
 ### Experience
-- Research Intern
+- Undergraduate  Research Intern, [MAISC Lab at Chung-Ang University][https://sites.google.com/view/maisc-lab/]
 
 
 <!--
