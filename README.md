@@ -11,7 +11,7 @@
 
 ###  About Me
 I'm Deokhyeon Yoon, a master's student in Artificial Intelligence (AI) at Chung-Ang University (CAU). <br>
-My research focuses on image compression and storage using generative models, including diffusion models and VAEs.
+My research focuses on image compression and storage using generative models, such as Diffusion models and VAEs
 
 <br><br>
 
