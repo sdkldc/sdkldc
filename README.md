@@ -2,8 +2,8 @@
 
 
 <span>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"style="margin-right: 16px;"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"style="margin-right: 16px;"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white "style="margin-right: 16px;"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white "style="margin-right: 16px;"/>
     <img src="https://img.shields.io/badge/MySQL-%4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </span>
 
