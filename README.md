@@ -13,10 +13,13 @@
 ### Education
 
 - **B.S. in Mathematics**, Chung-Ang University (CAU)  
-  *2019.3 – 2025.8*
+  *2019.3 ~ 2025.8*
 
 - **M.S. in Artificial Intelligence**, Chung-Ang University (CAU)  
-  *2025.3 – Present*
+  *2025.3 ~ Present*
+
+### Experience
+- Research Intern
 
 
 <!--
