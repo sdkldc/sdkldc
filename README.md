@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </span>
 
+### About Me
 
 
 
@@ -17,7 +18,7 @@
 - B.S. in Mathematics at Chung-Ang University (CAU)  
   *2019.3 ~ 2025.8*
 
-- M.S. in Artificial Intelligence at Chung-Ang University (CAU)  
+- M.S. in Artificial Intelligence (AI) at Chung-Ang University (CAU)  
   *2025.3 ~ Present*
 
 ### Experience
