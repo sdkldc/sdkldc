@@ -17,15 +17,15 @@ My research focuses on image compression and storage using generative models, in
 
 ### Education
 
-2019.3 ~ 2025.8 : B.S. in Mathematics at Chung-Ang University (CAU)  
+2019.3 ~ 2025.8 : B.S. in Mathematics at Chung-Ang University (CAU)   <br>
 2025.3 ~ Present : M.S. in Artificial Intelligence (AI) at Chung-Ang University (CAU)  
 <br><br>
 
 ### Experience
-2024.6 ~ 2025.2 : Undergraduate  Research Intern, [MAISC Lab at Chung-Ang University](https://sites.google.com/view/maisc-lab/)
-2025.3 ~ 2025.7 : Undergraduate  Research Intern, [Compression AI Lab at Chung-Ang University](https://cai.cau.ac.kr/)
-2025.8 ~ present : Researcher, [Compression AI Lab at Chung-Ang University](https://cai.cau.ac.kr/)
-2024.3 ~ 2024.8 : BDA (Big Data Analysis, 데이터 분석 학회)
+2024.6 ~ 2025.2 : Undergraduate  Research Intern, [MAISC Lab at Chung-Ang University](https://sites.google.com/view/maisc-lab/) <br>
+2025.3 ~ 2025.7 : Undergraduate  Research Intern, [Compression AI Lab at Chung-Ang University](https://cai.cau.ac.kr/) <br>
+2025.8 ~ present : Researcher, [Compression AI Lab at Chung-Ang University](https://cai.cau.ac.kr/) <br>
+2024.3 ~ 2024.8 : BDA (Big Data Analysis, 데이터 분석 학회) <br>
 2024.9 ~ 2024.12 : CUAI (Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 학회)
 
 <!--
