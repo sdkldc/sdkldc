@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </span>
 
-## Education
-2019.03 ~ 2025.08 : B.S. in Mathematics , Chung-Ang University (CAU)
+### Education
+2019.03 ~ 2025.08 : B.S. in Mathematics , Chung-Ang University (CAU) \\
 2025.08 ~ present : M.S. in Artificial Intelligence , Chung-Ang University (CAU)
 <!--
 **sdkldc/sdkldc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
