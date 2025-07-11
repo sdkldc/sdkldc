@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </span>
 
-### 👋 About Me
+###  About Me
 I'm Deokhyeon Yoon, currently pursuing an M.S. in Artificial Intelligence at Chung-Ang University (CAU).  
 I study **image compression and storage** based on **generative models**, such as diffusion models and VAEs.  
 
