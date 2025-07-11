@@ -1,5 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Have%20a%20nice%20day!%20👋&fontSize=40&color=gradient&customGradient=90deg,%23A8E6CF,%23DCEDC1)
+
 ## Have a nice day!👋
 
 <!--
