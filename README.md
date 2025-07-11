@@ -19,7 +19,7 @@
   *2025.3 ~ Present*
 
 ### Experience
-- Undergraduate  Research Intern, [MAISC Lab at Chung-Ang University][https://sites.google.com/view/maisc-lab/]
+- Undergraduate  Research Intern, [MAISC Lab at Chung-Ang University](https://sites.google.com/view/maisc-lab/)
 
 
 <!--
