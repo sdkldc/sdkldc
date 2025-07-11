@@ -10,7 +10,7 @@
 </span>
 
 ###  About Me
-I'm Deokhyeon Yoon, a master's student in Artificial Intelligence (AI) at Chung-Ang University (CAU). <br>
+I'm Deok-Hyeon Yoon, a master's student in Artificial Intelligence (AI) at Chung-Ang University (CAU). <br>
 My research focuses on image compression and storage using generative models, such as Diffusion models and VAEs
 <br><br>
 
