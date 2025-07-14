@@ -17,7 +17,7 @@ My research focuses on image compression and storage using generative models, su
 ### Education
 
 B.S. in Mathematics at Chung-Ang University (CAU), 2019.3 ~ 2025.8  <br>
-M.S. in Artificial Intelligence (AI) at Chung-Ang University (CAU), 2025.3 ~ **present** [(Prof.Jun-Hyuk Kim)](https://junhyukk.github.io/)
+M.S. in Artificial Intelligence (AI) at Chung-Ang University (CAU), 2025.8 ~ **present** [(Prof.Jun-Hyuk Kim)](https://junhyukk.github.io/)
 <br><br>
 
 ### Experience
