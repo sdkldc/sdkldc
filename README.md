@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </span>
 
 ###  About Me
